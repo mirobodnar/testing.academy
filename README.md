@@ -5,3 +5,6 @@ files for course academy
 project content:
 * bin
 * tests
+
+
+robim zmeny
